@@ -53,6 +53,7 @@ namespace ElectricityPrj
                 ebill.UnitsConsumed = units;
                 board.CalculateBill(ebill);
                 board.AddBill(ebill);
+                 lblResult.Text = ebill.ConsumerNumber + " " + ebill.ConsumerName + " " + ebill.UnitsConsumed + " " + ebill.UnitsConsumed + " " + ebill.BillAmount;
 
                 currentCount++;
                 lblmsg.Text = "Bill added sucessfully .";
