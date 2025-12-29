@@ -17,7 +17,7 @@ namespace Cachingprj
         }
         private void GetProductsByName(string productname)
         {
-            SqlConnection con = new SqlConnection("Data Source=; initial catalog=infinite;" +
+            SqlConnection con = new SqlConnection("Data Source=(localdb)\MSSQLLocalDB;; initial catalog=infinite;" +
                 "integrated security=true;");
             SqlDataAdapter da = new SqlDataAdapter("spGetProductByName", con);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;
