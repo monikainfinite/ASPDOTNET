@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\ASP\\Cachingprj\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119327F8-6DBB-4B41-883E-40BCDBB25499}|Cachingprj\\Cachingprj.csproj|C:\\ASP\\Cachingprj\\cachingprj\\cacheform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{119327F8-6DBB-4B41-883E-40BCDBB25499}|Cachingprj\\Cachingprj.csproj|solutionrelative:cachingprj\\cacheform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119327F8-6DBB-4B41-883E-40BCDBB25499}|Cachingprj\\Cachingprj.csproj|c:\\asp\\cachingprj\\cachingprj\\cacheform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{119327F8-6DBB-4B41-883E-40BCDBB25499}|Cachingprj\\Cachingprj.csproj|solutionrelative:cachingprj\\cacheform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119327F8-6DBB-4B41-883E-40BCDBB25499}|Cachingprj\\Cachingprj.csproj|c:\\asp\\cachingprj\\cachingprj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{119327F8-6DBB-4B41-883E-40BCDBB25499}|Cachingprj\\Cachingprj.csproj|solutionrelative:cachingprj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CacheForm.aspx.cs",
+              "DocumentMoniker": "C:\\ASP\\Cachingprj\\Cachingprj\\CacheForm.aspx.cs",
+              "RelativeDocumentMoniker": "Cachingprj\\CacheForm.aspx.cs",
+              "ToolTip": "C:\\ASP\\Cachingprj\\Cachingprj\\CacheForm.aspx.cs*",
+              "RelativeToolTip": "Cachingprj\\CacheForm.aspx.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T06:40:59.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CacheForm.aspx",
+              "DocumentMoniker": "C:\\ASP\\Cachingprj\\Cachingprj\\CacheForm.aspx",
+              "RelativeDocumentMoniker": "Cachingprj\\CacheForm.aspx",
+              "ToolTip": "C:\\ASP\\Cachingprj\\Cachingprj\\CacheForm.aspx*",
+              "RelativeToolTip": "Cachingprj\\CacheForm.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-25T06:40:39.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\ASP\\Cachingprj\\Cachingprj\\Web.config",
+              "RelativeDocumentMoniker": "Cachingprj\\Web.config",
+              "ToolTip": "C:\\ASP\\Cachingprj\\Cachingprj\\Web.config*",
+              "RelativeToolTip": "Cachingprj\\Web.config*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-29T05:11:42.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

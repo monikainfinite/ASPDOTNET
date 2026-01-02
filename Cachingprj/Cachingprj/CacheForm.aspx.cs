@@ -13,11 +13,18 @@ namespace Cachingprj
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            if (!IsPostBack)
+            {
+                GetProductsByName("All");
+                Response.Cache.SetExpires(DateTime.Now.AddSeconds(30));//duration
+                Response.Cache.VaryByParams["None"] = true;//varybyparam
+                Response.Cache.SetCacheability(HttpCacheability.ServerAndPrivate);//location
+            }
+            lblmsg.Text = "this page is cached at: " + DateTime.Now.ToString();
         }
         private void GetProductsByName(string productname)
         {
-            SqlConnection con = new SqlConnection("Data Source=; initial catalog=infinite;" +
+            SqlConnection con = new SqlConnection("Data Source=(localdb)\\MSSQLLocalDB; initial catalog=infinite;" +
                 "integrated security=true;");
             SqlDataAdapter da = new SqlDataAdapter("spGetProductByName", con);
             da.SelectCommand.CommandType = CommandType.StoredProcedure;

@@ -1,0 +1,7 @@
+C:\Assignments\enum_struct\enum_struct\bin\Debug\enum_struct.exe.config
+C:\Assignments\enum_struct\enum_struct\bin\Debug\enum_struct.exe
+C:\Assignments\enum_struct\enum_struct\bin\Debug\enum_struct.pdb
+C:\Assignments\enum_struct\enum_struct\obj\Debug\enum_struct.csproj.AssemblyReference.cache
+C:\Assignments\enum_struct\enum_struct\obj\Debug\enum_struct.csproj.CoreCompileInputs.cache
+C:\Assignments\enum_struct\enum_struct\obj\Debug\enum_struct.exe
+C:\Assignments\enum_struct\enum_struct\obj\Debug\enum_struct.pdb

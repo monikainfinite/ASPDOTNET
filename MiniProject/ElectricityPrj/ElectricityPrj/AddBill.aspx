@@ -39,5 +39,8 @@ Units Consumed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <br />
     <br />
 <asp:Label ID="lblmsg" runat="server"></asp:Label>
+<br />
+ <br />
+ <asp:Label ID="lblResult" runat="server" ForeColor="Green"></asp:Label>
 
 </asp:Content>

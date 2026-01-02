@@ -1,0 +1,58 @@
+﻿using FirstMvc.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
+
+namespace FirstMvc.Controllers
+{
+    public class DemoController : Controller
+    {
+        // GET: Demo
+        public ActionResult Index()
+        {
+            return View();
+        }
+        //1.Normal method
+        public string NormalMethod()
+        {
+            return "Hi All.. welcome to MVC";
+        }
+        //2.View result
+        public ViewResult ViewMethod()
+        {
+            return View();
+        }
+        
+        //3.Contentresult
+        public  ContentResult ContentMethod()
+        {
+            return Content("<h1 style=color:green;>Hii ..!!!</h1>");
+        }
+        //4.emptyresult
+        public EmptyResult EmptyMethod()
+        {
+            int amt = 45000;
+            float si = (amt * 3 * 2) / 100;
+            return new EmptyResult();
+        }
+        //5.Redirect
+        public ActionResult redirectMethod()
+        {
+            //return RedirectToAction("ContentMethod");
+            //redirecting to other action of the controller
+            return RedirectToAction("index", "home");
+            //redirecting to other action method of diff controller
+
+        }
+        //6.json result
+        public JsonResult JsonMethod()
+        {
+            Employee emp = new Employee() { ID = 101, Name = "Monika", Age = 21 };
+            return Json(emp,JsonRequestBehavior.AllowGet);   
+
+        }
+
+    }
+}

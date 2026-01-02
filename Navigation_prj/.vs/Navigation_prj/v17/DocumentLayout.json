@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASP\\Navigation_prj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|c:\\asp\\navigation_prj\\navigation_prj\\crosspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|solutionrelative:navigation_prj\\crosspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|c:\\asp\\navigation_prj\\navigation_prj\\crosspageindex.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|solutionrelative:navigation_prj\\crosspageindex.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|c:\\asp\\navigation_prj\\navigation_prj\\crosspageindex.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|solutionrelative:navigation_prj\\crosspageindex.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|c:\\asp\\navigation_prj\\navigation_prj\\crosspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|solutionrelative:navigation_prj\\crosspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|c:\\asp\\navigation_prj\\navigation_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|solutionrelative:navigation_prj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|C:\\ASP\\Navigation_prj\\navigation_prj\\redirectvstransfer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|solutionrelative:navigation_prj\\redirectvstransfer.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|C:\\ASP\\Navigation_prj\\navigation_prj\\redirectvstransfer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|solutionrelative:navigation_prj\\redirectvstransfer.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|C:\\ASP\\Navigation_prj\\navigation_prj\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|solutionrelative:navigation_prj\\page1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|C:\\ASP\\Navigation_prj\\navigation_prj\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2CB409C8-F3D7-4F53-875F-AAEAB3E60727}|Navigation_prj\\Navigation_prj.csproj|solutionrelative:navigation_prj\\page1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CrossPageIndex.aspx.cs",
+              "DocumentMoniker": "C:\\ASP\\Navigation_prj\\Navigation_prj\\CrossPageIndex.aspx.cs",
+              "RelativeDocumentMoniker": "Navigation_prj\\CrossPageIndex.aspx.cs",
+              "ToolTip": "C:\\ASP\\Navigation_prj\\Navigation_prj\\CrossPageIndex.aspx.cs",
+              "RelativeToolTip": "Navigation_prj\\CrossPageIndex.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T12:24:57.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrossPage.aspx.cs",
+              "DocumentMoniker": "C:\\ASP\\Navigation_prj\\Navigation_prj\\CrossPage.aspx.cs",
+              "RelativeDocumentMoniker": "Navigation_prj\\CrossPage.aspx.cs",
+              "ToolTip": "C:\\ASP\\Navigation_prj\\Navigation_prj\\CrossPage.aspx.cs",
+              "RelativeToolTip": "Navigation_prj\\CrossPage.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T11:31:16.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CrossPageIndex.aspx",
+              "DocumentMoniker": "C:\\ASP\\Navigation_prj\\Navigation_prj\\CrossPageIndex.aspx",
+              "RelativeDocumentMoniker": "Navigation_prj\\CrossPageIndex.aspx",
+              "ToolTip": "C:\\ASP\\Navigation_prj\\Navigation_prj\\CrossPageIndex.aspx",
+              "RelativeToolTip": "Navigation_prj\\CrossPageIndex.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T11:32:27.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrossPage.aspx",
+              "DocumentMoniker": "C:\\ASP\\Navigation_prj\\Navigation_prj\\CrossPage.aspx",
+              "RelativeDocumentMoniker": "Navigation_prj\\CrossPage.aspx",
+              "ToolTip": "C:\\ASP\\Navigation_prj\\Navigation_prj\\CrossPage.aspx",
+              "RelativeToolTip": "Navigation_prj\\CrossPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-30T11:31:07.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\ASP\\Navigation_prj\\Navigation_prj\\Web.config",
+              "RelativeDocumentMoniker": "Navigation_prj\\Web.config",
+              "ToolTip": "C:\\ASP\\Navigation_prj\\Navigation_prj\\Web.config",
+              "RelativeToolTip": "Navigation_prj\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-29T13:55:52.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RedirectVsTransfer.aspx",
+              "DocumentMoniker": "C:\\ASP\\Navigation_prj\\Navigation_prj\\RedirectVsTransfer.aspx",
+              "RelativeDocumentMoniker": "Navigation_prj\\RedirectVsTransfer.aspx",
+              "ToolTip": "C:\\ASP\\Navigation_prj\\Navigation_prj\\RedirectVsTransfer.aspx",
+              "RelativeToolTip": "Navigation_prj\\RedirectVsTransfer.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-29T10:14:58.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedirectVsTransfer.aspx.cs",
+              "DocumentMoniker": "C:\\ASP\\Navigation_prj\\Navigation_prj\\RedirectVsTransfer.aspx.cs",
+              "RelativeDocumentMoniker": "Navigation_prj\\RedirectVsTransfer.aspx.cs",
+              "ToolTip": "C:\\ASP\\Navigation_prj\\Navigation_prj\\RedirectVsTransfer.aspx.cs",
+              "RelativeToolTip": "Navigation_prj\\RedirectVsTransfer.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:18:08.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page1.aspx.cs",
+              "DocumentMoniker": "C:\\ASP\\Navigation_prj\\Navigation_prj\\Page1.aspx.cs",
+              "RelativeDocumentMoniker": "Navigation_prj\\Page1.aspx.cs",
+              "ToolTip": "C:\\ASP\\Navigation_prj\\Navigation_prj\\Page1.aspx.cs",
+              "RelativeToolTip": "Navigation_prj\\Page1.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T10:29:18.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page1.aspx",
+              "DocumentMoniker": "C:\\ASP\\Navigation_prj\\Navigation_prj\\Page1.aspx",
+              "RelativeDocumentMoniker": "Navigation_prj\\Page1.aspx",
+              "ToolTip": "C:\\ASP\\Navigation_prj\\Navigation_prj\\Page1.aspx",
+              "RelativeToolTip": "Navigation_prj\\Page1.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-29T10:25:29.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
