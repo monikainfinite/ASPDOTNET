@@ -13,7 +13,7 @@ namespace WebApplication1
         protected void Page_Load(object sender, EventArgs e)
         {
             SqlConnection con = null;
-            con = new SqlConnection("Data source=ICS-LT-6YZYBB4\\SQLEXPRESS; initial catalog=northwind;" +
+            con = new SqlConnection("Data source=(localdb)\MSSQLLocalDB; initial catalog=northwind;" +
                 "trusted_connection=true;");
             con.Open();
 
