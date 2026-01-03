@@ -31,6 +31,7 @@ namespace FirstMvc.Controllers
             return Content("<h1 style=color:green;>Hii ..!!!</h1>");
         }
         //4.emptyresult
+        [NonAction]
         public EmptyResult EmptyMethod()
         {
             int amt = 45000;
@@ -52,6 +53,21 @@ namespace FirstMvc.Controllers
             Employee emp = new Employee() { ID = 101, Name = "Monika", Age = 21 };
             return Json(emp,JsonRequestBehavior.AllowGet);   
 
+        }
+        //to check if the tempdata values are available here from the previous controllers multiple requests
+        public ActionResult Test_TempData_across_controllers()
+        {
+            TempData.Keep();
+            return View(TempData["stores"]);
+        }
+
+
+        //this action method is to test the tempdata values being made
+        //available even after traversing many requests, and without redirection
+        public ActionResult CheckTempdata()
+        {
+            TempData.Keep();
+            return View(TempData["stores"]);
         }
 
     }
