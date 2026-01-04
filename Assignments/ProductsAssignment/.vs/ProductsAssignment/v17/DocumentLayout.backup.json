@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Assignments\\ProductsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF39F73-C762-45A6-9F8F-DE30D43AF2C7}|ProductsAssignment\\ProductsAssignment.csproj|C:\\Assignments\\ProductsAssignment\\productsassignment\\productspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4BF39F73-C762-45A6-9F8F-DE30D43AF2C7}|ProductsAssignment\\ProductsAssignment.csproj|solutionrelative:productsassignment\\productspage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF39F73-C762-45A6-9F8F-DE30D43AF2C7}|ProductsAssignment\\ProductsAssignment.csproj|C:\\Assignments\\ProductsAssignment\\productsassignment\\productspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF39F73-C762-45A6-9F8F-DE30D43AF2C7}|ProductsAssignment\\ProductsAssignment.csproj|solutionrelative:productsassignment\\productspage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF39F73-C762-45A6-9F8F-DE30D43AF2C7}|ProductsAssignment\\ProductsAssignment.csproj|c:\\assignments\\productsassignment\\productsassignment\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BF39F73-C762-45A6-9F8F-DE30D43AF2C7}|ProductsAssignment\\ProductsAssignment.csproj|solutionrelative:productsassignment\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF39F73-C762-45A6-9F8F-DE30D43AF2C7}|ProductsAssignment\\ProductsAssignment.csproj|C:\\Assignments\\ProductsAssignment\\productsassignment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4BF39F73-C762-45A6-9F8F-DE30D43AF2C7}|ProductsAssignment\\ProductsAssignment.csproj|solutionrelative:productsassignment\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsPage.aspx.cs",
+              "DocumentMoniker": "C:\\Assignments\\ProductsAssignment\\ProductsAssignment\\ProductsPage.aspx.cs",
+              "RelativeDocumentMoniker": "ProductsAssignment\\ProductsPage.aspx.cs",
+              "ToolTip": "C:\\Assignments\\ProductsAssignment\\ProductsAssignment\\ProductsPage.aspx.cs",
+              "RelativeToolTip": "ProductsAssignment\\ProductsPage.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T09:18:03.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsPage.aspx",
+              "DocumentMoniker": "C:\\Assignments\\ProductsAssignment\\ProductsAssignment\\ProductsPage.aspx",
+              "RelativeDocumentMoniker": "ProductsAssignment\\ProductsPage.aspx",
+              "ToolTip": "C:\\Assignments\\ProductsAssignment\\ProductsAssignment\\ProductsPage.aspx*",
+              "RelativeToolTip": "ProductsAssignment\\ProductsPage.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-25T09:16:55.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Assignments\\ProductsAssignment\\ProductsAssignment\\packages.config",
+              "RelativeDocumentMoniker": "ProductsAssignment\\packages.config",
+              "ToolTip": "C:\\Assignments\\ProductsAssignment\\ProductsAssignment\\packages.config",
+              "RelativeToolTip": "ProductsAssignment\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-25T11:18:11.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Assignments\\ProductsAssignment\\ProductsAssignment\\Web.config",
+              "RelativeDocumentMoniker": "ProductsAssignment\\Web.config",
+              "ToolTip": "C:\\Assignments\\ProductsAssignment\\ProductsAssignment\\Web.config",
+              "RelativeToolTip": "ProductsAssignment\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-25T10:49:38.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
