@@ -17,6 +17,7 @@
 
     </head>
     <body>
+        <!-- 1.Multiplication and division -->
         <div class="input-boxes">
             Number 1: <input type="number" id="num1"><br>
             Number 2:<input type="number" id="num2"><br>
@@ -25,18 +26,21 @@
             <p id="answer"></p>
         </div>
         <hr>
+        <!-- 2.Even or odd messages from 0 to 15 -->
         <div>
             <h1>Odd or Even </h1>
             <button onclick="evenOrOdd()">SHow even or odd</button>
             <p id="output"></p>
         </div>
         <hr>
+        <!-- 3.Adding Event listener -->
         <div>
             <h1>Button click event listener</h1>
             <button id="clickButton">Click Here</button>
           
         </div>
         <hr>
+        <!-- 4.Hiding odd rows in a table -->
         <div>
             <h1>Hide odd table Rows</h1>
             <table border="2px solid black">
@@ -64,6 +68,7 @@
             <button id="hideOdd">Hide Odd Rows</button>
         </div>
         <hr>
+
          <div>
             <ul>
                 <li>CSHARP</li>
@@ -73,10 +78,12 @@
             <button id="getElement">select second element</button>
          </div>
          <hr>
+         <!-- 8.displaying message when input field changed -->
          <div class="div1"> 
             <input type="text" id="input1" placeholder="enter your username">
          </div>
          <script>
+            // 1.multiplication and division
             function multiply(){
                 var a=document.getElementById("num1").value;
                 var b=document.getElementById("num2").value;
@@ -96,6 +103,7 @@
                     document.getElementById("answer").innerHTML="division of 2 numbers is "+res;
                 }
             }
+            // 2.Displaying even and odd for 0 to 15 numbers
         function evenOrOdd(){
             var text="";
             for(var i=0;i<=15;i++){
@@ -108,28 +116,36 @@
             }
             document.getElementById("output").innerHTML=text;
         }
+        // 3.Adding event listener
         document.getElementById("clickButton").addEventListener("click",
             function(){console.log("button is clicked and event click is worked")}
         );
+        // 4.hiding odd rows of a table
         $(document).ready(function(){
             $("#hideOdd").click(function(){
                 $("table tr:odd").hide();
             })
         });
+        // 5.Applying bg color for all h1 tags under div
         $(document).ready(function(){
             $("div h1").css("background-color","red");
         })
+        //6.selectinga single element from list
         $(document).ready(function(){
             $("#getElement").click(function(){
                 $("li").css("background-color","");
                 $("li").eq(1).css("background-color","blue");
             })
         })
+        //7.prepending index for the list
+
         // $(document).ready(function(){
         //     $("li").each(function(index){
         //         $(this).prepend(index+" ");
         //     });
         // });
+        
+        //8.Appending p tag when input field is changed.
         $(document).ready(function(){
             $("#input1").change(function(){
                 $(".div1").append("<p> input fieldd value is changed</p>");
