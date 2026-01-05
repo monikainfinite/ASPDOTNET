@@ -1,0 +1,44 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.Master.cs" Inherits="ElectricityPrj.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>Electricity Board Billing</title>
+    <style>
+        .header{
+            background-color: blueviolet;
+            color: white;
+            padding: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+         .logout-btn{
+            background-color: red;
+            color: white;
+            border: none;
+            padding: 8px 15px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+   <h1>Electricity Billing </h1>
+             <asp:Button ID="btnLogout"  runat="server" Text="Logout" CssClass="logout-btn" Onclick="btnLogout_Click" />
+         
+            </div>
+    <hr />
+        <div class="main-content">
+    <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder></div>
+
+    <hr />
+    <footer>&copy;Elecricity Board</footer>
+        </form>
+</body>
+</html>

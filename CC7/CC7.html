@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+           buton{
+            width:100px;
+           }
+           table{
+            width:300px;
+        
+           }
+           ul{
+            list-style-type:none;
+           }
+        </style>
+       <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+
+    </head>
+    <body>
+        <div class="input-boxes">
+            Number 1: <input type="number" id="num1"><br>
+            Number 2:<input type="number" id="num2"><br>
+            <button onclick="multiply()">Multiply</button>
+            <button onclick="divide()">Divide</button>
+            <p id="answer"></p>
+        </div>
+        <hr>
+        <div>
+            <h1>Odd or Even </h1>
+            <button onclick="evenOrOdd()">SHow even or odd</button>
+            <p id="output"></p>
+        </div>
+        <hr>
+        <div>
+            <h1>Button click event listener</h1>
+            <button id="clickButton">Click Here</button>
+          
+        </div>
+        <hr>
+        <div>
+            <h1>Hide odd table Rows</h1>
+            <table border="2px solid black">
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>Monika</td>
+                    </tr>
+                    <tr><td>2</td>
+                    <td>Teja Sri</td></tr>
+                    <tr><td>3</td>
+                    <td>Krishna</td></tr>
+                    <tr>
+                        <td>4</td>
+                        <td>Varshu</td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>Manu</td>
+                    </tr>
+            </table>
+            <button id="hideOdd">Hide Odd Rows</button>
+        </div>
+        <hr>
+         <div>
+            <ul>
+                <li>CSHARP</li>
+                <li>SQL</li>
+                <li>ADO</li>
+            </ul>
+            <button id="getElement">select second element</button>
+         </div>
+         <hr>
+         <div class="div1"> 
+            <input type="text" id="input1" placeholder="enter your username">
+         </div>
+         <script>
+            function multiply(){
+                var a=document.getElementById("num1").value;
+                var b=document.getElementById("num2").value;
+                var res=a*b;
+                document.getElementById("answer").innerHTML="multiplication of two numbers "+a+" "+b+" is"+res;
+
+            }
+            function divide(){
+                var n1=document.getElementById("num1").value;
+                var n2=document.getElementById("num2").value;
+                if(n2==0){
+                    document.getElementById("answer").innerHTML="cannot divide by zero";
+
+                }
+                else{
+                    var res=n1/n2;
+                    document.getElementById("answer").innerHTML="division of 2 numbers is "+res;
+                }
+            }
+        function evenOrOdd(){
+            var text="";
+            for(var i=0;i<=15;i++){
+                if(i%2==0){
+                    text+=i+" is even<br>"
+                }
+                else{
+                    text+=i+" is odd<br>"
+                }
+            }
+            document.getElementById("output").innerHTML=text;
+        }
+        document.getElementById("clickButton").addEventListener("click",
+            function(){console.log("button is clicked and event click is worked")}
+        );
+        $(document).ready(function(){
+            $("#hideOdd").click(function(){
+                $("table tr:odd").hide();
+            })
+        });
+        $(document).ready(function(){
+            $("div h1").css("background-color","red");
+        })
+        $(document).ready(function(){
+            $("#getElement").click(function(){
+                $("li").css("background-color","");
+                $("li").eq(1).css("background-color","blue");
+            })
+        })
+        // $(document).ready(function(){
+        //     $("li").each(function(index){
+        //         $(this).prepend(index+" ");
+        //     });
+        // });
+        $(document).ready(function(){
+            $("#input1").change(function(){
+                $(".div1").append("<p> input fieldd value is changed</p>");
+            });
+        });
+        </script>
+    </body>
+</html>

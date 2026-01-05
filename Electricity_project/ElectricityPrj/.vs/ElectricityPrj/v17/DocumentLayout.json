@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\models\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\models\\electricityboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\viewbills.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\viewbills.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\billreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\billreport.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\billreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\billreport.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\loginform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\viewbills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\viewbills.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|c:\\users\\monikak\\downloads\\electricityprj\\electricityprj\\electricityprj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\addbill.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\masterpage.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\addbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\addbill.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\models\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\models\\billvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\loginform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\electricityprj\\models\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B865B365-FE1B-47BB-96A3-5AF9EA5B9E3A}|ElectricityPrj\\ElectricityPrj.csproj|solutionrelative:electricityprj\\models\\dbhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewBills.aspx",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\ViewBills.aspx",
+              "RelativeDocumentMoniker": "ElectricityPrj\\ViewBills.aspx",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\ViewBills.aspx",
+              "RelativeToolTip": "ElectricityPrj\\ViewBills.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-28T09:20:02.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectricityBoard.cs",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Models\\ElectricityBoard.cs",
+              "RelativeDocumentMoniker": "ElectricityPrj\\Models\\ElectricityBoard.cs",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Models\\ElectricityBoard.cs",
+              "RelativeToolTip": "ElectricityPrj\\Models\\ElectricityBoard.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAAIYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:58:53.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.aspx",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\LoginForm.aspx",
+              "RelativeDocumentMoniker": "ElectricityPrj\\LoginForm.aspx",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\LoginForm.aspx",
+              "RelativeToolTip": "ElectricityPrj\\LoginForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-28T09:03:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Models\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "ElectricityPrj\\Models\\ElectricityBill.cs",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Models\\ElectricityBill.cs",
+              "RelativeToolTip": "ElectricityPrj\\Models\\ElectricityBill.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAUwEAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T05:38:20.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillReport.aspx",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\BillReport.aspx",
+              "RelativeDocumentMoniker": "ElectricityPrj\\BillReport.aspx",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\BillReport.aspx",
+              "RelativeToolTip": "ElectricityPrj\\BillReport.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-31T17:36:04.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BillReport.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\BillReport.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityPrj\\BillReport.aspx.cs",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\BillReport.aspx.cs",
+              "RelativeToolTip": "ElectricityPrj\\BillReport.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T17:41:13.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewBills.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\ViewBills.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityPrj\\ViewBills.aspx.cs",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\ViewBills.aspx.cs",
+              "RelativeToolTip": "ElectricityPrj\\ViewBills.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:23:54.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Web.config",
+              "RelativeDocumentMoniker": "ElectricityPrj\\Web.config",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Web.config",
+              "RelativeToolTip": "ElectricityPrj\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-12-28T09:28:07.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MasterPage.Master.cs",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\MasterPage.Master.cs",
+              "RelativeDocumentMoniker": "ElectricityPrj\\MasterPage.Master.cs",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\MasterPage.Master.cs",
+              "RelativeToolTip": "ElectricityPrj\\MasterPage.Master.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T08:13:28.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddBill.aspx",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\AddBill.aspx",
+              "RelativeDocumentMoniker": "ElectricityPrj\\AddBill.aspx",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\AddBill.aspx",
+              "RelativeToolTip": "ElectricityPrj\\AddBill.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-28T09:14:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddBill.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\AddBill.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityPrj\\AddBill.aspx.cs",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\AddBill.aspx.cs",
+              "RelativeToolTip": "ElectricityPrj\\AddBill.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwFYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:16:30.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\MasterPage.Master",
+              "RelativeDocumentMoniker": "ElectricityPrj\\MasterPage.Master",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\MasterPage.Master",
+              "RelativeToolTip": "ElectricityPrj\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-26T04:41:15.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\LoginForm.aspx.cs",
+              "RelativeDocumentMoniker": "ElectricityPrj\\LoginForm.aspx.cs",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\LoginForm.aspx.cs",
+              "RelativeToolTip": "ElectricityPrj\\LoginForm.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:08:20.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BillValidator.cs",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Models\\BillValidator.cs",
+              "RelativeDocumentMoniker": "ElectricityPrj\\Models\\BillValidator.cs",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Models\\BillValidator.cs",
+              "RelativeToolTip": "ElectricityPrj\\Models\\BillValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:50:08.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DBHandler.cs",
+              "DocumentMoniker": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Models\\DBHandler.cs",
+              "RelativeDocumentMoniker": "ElectricityPrj\\Models\\DBHandler.cs",
+              "ToolTip": "C:\\Users\\monikak\\Downloads\\ElectricityPrj\\ElectricityPrj\\ElectricityPrj\\Models\\DBHandler.cs",
+              "RelativeToolTip": "ElectricityPrj\\Models\\DBHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T08:56:40.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
