@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Question1.Models.Customer>
+@{
+    ViewBag.Title = "GetCustomersInGermany";
+}
+<style>
+    table,th,tr,td{
+        border:1px solid black;
+    }
+</style>
+<h2>GetCustomersInGermany</h2>
+<table border="1px solid black">
+    <tr>
+        <th>Customer ID</th>
+        <th>Contact Name</th>
+
+        <th>CompanyName</th>
+        <th>Address</th>
+        <th>City</th>
+        <th>Phone</th>
+        <th>Postal Code</th>
+        <th>Fax</th>
+
+    </tr>
+    @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.CustomerID</td>
+                    <td>@item.ContactName</td>
+
+                    <td>@item.CompanyName</td>
+                    <td>@item.Address</td>
+                    <td>@item.City</td>
+                    <td>@item.Phone</td>
+                    <td>@item.PostalCode</td>
+                    <td>@item.Fax</td>
+                </tr>
+            }
+</table>
+

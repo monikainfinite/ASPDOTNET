@@ -1,0 +1,42 @@
+﻿@model Question1.Models.Customer
+@{
+    ViewBag.Title = "GetByOrder";
+}
+<style>
+    table,tr,th,td{
+        border:1px solid black;
+    }
+</style>
+<h2>GetByOrder</h2>
+@if (Model != null)
+            {
+               <table>
+                   <tr>
+                       <th>Customer Id</th>
+                       <th>Contact  Name</th>
+                       <th>Company Name</th>
+                       <th>Country</th>
+                       <th>Address</th>
+
+                       <th>City</th>
+                       <th>Phone</th>
+                       <th>Postal Code</th>
+                       <th>Fax</th>
+                   </tr>
+                   <tr>
+                       <td>@Model.CustomerID</td>
+                       <td>@Model.ContactName</td>
+                       <td>@Model.CompanyName</td>
+                       <td>@Model.Country</td>
+                       <td>@Model.Address</td>
+                       <td>@Model.City</td>
+                       <td>@Model.Phone</td>
+                       <td>@Model.PostalCode</td>
+                       <td>@Model.Fax</td>
+                   </tr>
+               </table>
+            }
+else
+            {
+                <p>No customer found.</p>
+            }

@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\ASPClass\\Q2_Movies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|c:\\aspclass\\q2_movies\\q2_movies\\views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\views\\movies\\moviesbydirector.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\views\\movies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\repository\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\repository\\movierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\views\\movies\\moviesbyyear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\views\\movies\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\views\\movies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\migrations\\202601130512310_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\migrations\\202601130512310_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\models\\moviecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|C:\\ASPClass\\Q2_Movies\\q2_movies\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{50238D10-A670-409E-9D25-E6277E8EF588}|Q2_Movies\\Q2_Movies.csproj|solutionrelative:q2_movies\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "Q2_Movies\\Models\\Movies.cs",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Models\\Movies.cs",
+              "RelativeToolTip": "Q2_Movies\\Models\\Movies.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:00:31.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Q2_Movies\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Q2_Movies\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:14:01.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesByDirector.cshtml",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\MoviesByDirector.cshtml",
+              "RelativeDocumentMoniker": "Q2_Movies\\Views\\Movies\\MoviesByDirector.cshtml",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\MoviesByDirector.cshtml",
+              "RelativeToolTip": "Q2_Movies\\Views\\Movies\\MoviesByDirector.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:26:50.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Q2_Movies\\Views\\Movies\\Index.cshtml",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\Index.cshtml",
+              "RelativeToolTip": "Q2_Movies\\Views\\Movies\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:21:32.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMovieRepository.cs",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Repository\\IMovieRepository.cs",
+              "RelativeDocumentMoniker": "Q2_Movies\\Repository\\IMovieRepository.cs",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Repository\\IMovieRepository.cs",
+              "RelativeToolTip": "Q2_Movies\\Repository\\IMovieRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wBEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:09:56.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieRepository.cs",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Repository\\MovieRepository.cs",
+              "RelativeDocumentMoniker": "Q2_Movies\\Repository\\MovieRepository.cs",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Repository\\MovieRepository.cs",
+              "RelativeToolTip": "Q2_Movies\\Repository\\MovieRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:06:45.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MoviesByYear.cshtml",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\MoviesByYear.cshtml",
+              "RelativeDocumentMoniker": "Q2_Movies\\Views\\Movies\\MoviesByYear.cshtml",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\MoviesByYear.cshtml",
+              "RelativeToolTip": "Q2_Movies\\Views\\Movies\\MoviesByYear.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:25:30.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Q2_Movies\\Views\\Movies\\Edit.cshtml",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\Edit.cshtml",
+              "RelativeToolTip": "Q2_Movies\\Views\\Movies\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:24:09.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Q2_Movies\\Views\\Movies\\Create.cshtml",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Views\\Movies\\Create.cshtml",
+              "RelativeToolTip": "Q2_Movies\\Views\\Movies\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T05:23:31.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202601130512310_InitialCreate.cs",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Migrations\\202601130512310_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Q2_Movies\\Migrations\\202601130512310_InitialCreate.cs",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Migrations\\202601130512310_InitialCreate.cs",
+              "RelativeToolTip": "Q2_Movies\\Migrations\\202601130512310_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:12:46.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Q2_Movies\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Q2_Movies\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:11:40.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Web.config",
+              "RelativeDocumentMoniker": "Q2_Movies\\Web.config",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Web.config",
+              "RelativeToolTip": "Q2_Movies\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T05:04:51.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieContext.cs",
+              "DocumentMoniker": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Models\\MovieContext.cs",
+              "RelativeDocumentMoniker": "Q2_Movies\\Models\\MovieContext.cs",
+              "ToolTip": "C:\\ASPClass\\Q2_Movies\\Q2_Movies\\Models\\MovieContext.cs",
+              "RelativeToolTip": "Q2_Movies\\Models\\MovieContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T05:02:47.138Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
